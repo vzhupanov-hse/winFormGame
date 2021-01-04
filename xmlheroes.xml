@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<heroes>
+  <hero1>
+    <name>Genji Shurkien</name>
+    <damage>84</damage>
+    <headshot>168</headshot>
+    <shoot>28</shoot>
+    <life>200</life>
+    <reload>24</reload>
+  </hero1>
+  <hero2>
+    <name>Mei Blizzard</name>
+    <damage>95</damage>
+    <headshot>0</headshot>
+    <shoot>0</shoot>
+    <life>250</life>
+    <reload>0</reload>
+  </hero2>
+</heroes>
